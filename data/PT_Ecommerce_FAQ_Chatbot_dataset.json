@@ -1,0 +1,200 @@
+{
+  "questions": [
+  {
+  "question": "Como é que posso criar uma conta?",
+  "answer": "Para criar uma conta, clique no botão 'Registar' no canto superior direito do nosso site e siga as instruções para concluir o processo de registo."
+  },
+  {
+  "question": "Que métodos de pagamento é que aceitam?",
+  "answer": "Aceitamos cartões de crédito, cartões de débito e PayPal como métodos de pagamento para encomendas online."
+  },
+  {
+  "question": "Como posso rastrear a minha encomenda?",
+  "answer": "Pode rastrear a sua encomenda ao iniciar sessão na sua conta e navegar até à secção 'Histórico de Encomendas'. Aí, encontrará as informações de rastreamento para o seu envio."
+  },
+  {
+  "question": "Qual é a vossa política de devolução?",
+  "answer": "A nossa política de devolução permite que devolva produtos no prazo de 30 dias após a compra para um reembolso total, desde que o produto e respectiva embalagem se encontrem no seu estado e condições originais. Consulte a nossa página de Devoluções para mais informações."
+  },
+  {
+  "question": "Posso cancelar a minha encomenda?",
+  "answer": "Pode cancelar a sua encomenda se esta ainda não tiver sido enviada. Para cancelar a sua encomenda, entre em contacto com a nossa equipa de apoio ao cliente e providencie os detalhes da sua encomenda."
+  },
+  {
+  "question": "Quanto tempo demora o envio?",
+  "answer": "Os tempos de envio variam consoante o destino e o método de envio escolhido. O envio padrão geralmente demora 3-5 dias úteis, enquanto o envio expresso pode demorar 1-2 dias úteis."
+  },
+  {
+  "question": "Oferecem envio internacional?",
+  "answer": "Sim, oferecemos envio internacional para países selecionados. A disponibilidade e os custos de envio serão calculados durante o processo de compra com base na sua localização."
+  },
+  {
+  "question": "O que devo fazer se o meu pacote estiver perdido ou danificado?",
+  "answer": "Se o seu pacote estiver perdido ou danificado durante o transporte, entre em contacto imediatamente com a nossa equipa de apoio ao cliente. Iniciaremos uma investigação e tomaremos as medidas necessárias para resolver o problema."
+  },
+  {
+  "question": "Posso alterar o meu endereço de envio depois de fazer uma encomenda?",
+  "answer": "Se precisar de alterar o seu endereço de envio, entre em contacto com a nossa equipa de apoio ao cliente assim que possível. Faremos o nosso melhor para atualizar o endereço se a encomenda ainda não tiver sido enviada."
+  },
+  {
+  "question": "Como posso contactar o suporte ao cliente?",
+  "answer": "Pode contactar a nossa equipa de suporte ao cliente por telefone através do [número de telefone] ou por e-mail através de [endereço de e-mail]. A nossa equipa está disponível durante [horário de trabalho] para ajudar com quaisquer dúvidas ou problemas que possa ter."
+  },
+  {
+  "question": "Oferecem serviços de embrulho para presente?",
+  "answer": "Sim, oferecemos serviços de embrulho para presente por uma taxa adicional. Durante o processo de compra, pode selecionar a opção de adicionar embrulho para presente à sua encomenda."
+  },
+  {
+  "question": "Qual é a vossa política de correspondência de preços?",
+  "answer": "Temos uma política de correspondência de preços em que igualaremos o preço de um produto idêntico encontrado num site concorrente. Entre em contacto com a nossa equipa de apoio ao cliente com os detalhes do produto e a oferta do concorrente."
+  },
+  {
+  "question": "Posso fazer uma encomenda por telefone?",
+  "answer": "Infelizmente, não aceitamos encomendas por telefone. Por favor, faça a sua encomenda através do nosso site para uma transação tranquila e segura."
+  },
+  {
+  "question": "As minhas informações pessoais e de pagamento são seguras?",
+  "answer": "Sim, levamos a segurança das suas informações pessoais e de pagamento a sério. Utilizamos criptografia padrão do setor e seguimos protocolos rigorosos de segurança para garantir que as suas informações estejam protegidas."
+  },
+  {
+  "question": "Qual é a vossa política de ajuste de preço?",
+  "answer": "Se um produto que comprou entrar em promoção nos 7 dias seguintes à sua compra, oferecemos um ajuste de preço único. Entre em contacto com a nossa equipa de apoio ao cliente com os detalhes da sua encomenda para solicitar o ajuste."
+  },
+  {
+  "question": "Têm um programa de fidelidade?",
+  "answer": "Sim, temos um programa de fidelidade onde pode ganhar pontos por cada compra. Estes pontos podem ser resgatados por descontos em encomendas futuras. Visite o nosso site para saber mais e aderir ao programa."
+  },
+  {
+  "question": "Posso fazer uma encomenda sem criar uma conta?",
+  "answer": "Sim, pode fazer uma encomenda como convidado sem criar uma conta. No entanto, criar uma conta oferece benefícios como rastreamento de encomendas e compras futuras mais fáceis."
+  },
+  {
+  "question": "Oferecem descontos em compras em grande quantidade ou por atacado?",
+  "answer": "Sim, oferecemos descontos em compras em grande quantidade ou por atacado para determinados produtos. Entre em contacto com a nossa equipa de apoio ao cliente ou visite a nossa página de Atacado para obter mais informações e discutir os seus requisitos específicos."
+  },
+  {
+  "question": "Posso alterar ou cancelar um item na minha encomenda?",
+  "answer": "Se precisar de alterar ou cancelar um item na sua encomenda, entre em contacto com a nossa equipa de apoio ao cliente o mais rápido possível. Ajudaremos com os passos necessários."
+  },
+  {
+  "question": "Como posso deixar uma avaliação de produto?",
+  "answer": "Para deixar uma avaliação de produto, vá até à página do produto no nosso site e clique no botão 'Escrever uma Avaliação'. Pode partilhar o seu feedback e classificação com base na sua experiência com o produto."
+  },
+  {
+  "question": "Posso usar vários códigos promocionais numa única encomenda?",
+  "answer": "Normalmente, apenas um código promocional pode ser aplicado por encomenda. Durante o processo de compra, insira o código promocional no campo designado para aplicar o desconto à sua encomenda."
+  },
+  {
+  "question": "O que devo fazer se receber o item errado?",
+  "answer": "Se receber o item errado na sua encomenda, entre em contacto imediatamente com a nossa equipa de apoio ao cliente. Iremos organizar o envio do item correto e ajudar com a devolução do item errado."
+  },
+  {
+  "question": "Oferecem envio rápido?",
+  "answer": "Sim, oferecemos opções de envio rápido para uma entrega mais rápida. Durante o processo de compra, pode selecionar o método de envio rápido desejado."
+  },
+  {
+  "question": "Posso encomendar um produto que está fora de stock?",
+  "answer": "Se um produto está atualmente fora de stock, normalmente verá a opção de subscrever notificações de produto. Desta forma, será alertado quando o produto estiver novamente disponível."
+  },
+  {
+  "question": "Sobre o que é a vossa newsletter por e-mail?",
+  "answer": "A nossa newsletter por e-mail fornece atualizações sobre novos lançamentos de produtos, ofertas exclusivas e dicas úteis relacionadas aos nossos produtos. Pode subscrever a nossa newsletter no nosso site."
+  },
+  {
+  "question": "Posso devolver um produto se mudar de ideias?",
+  "answer": "Sim, pode devolver um produto se mudar de ideias. Certifique-se de que o produto está na sua condição e embalagem originais, e consulte a nossa política de devolução para obter instruções."
+  },
+  {
+  "question": "Oferecem suporte de chat ao vivo?",
+  "answer": "Sim, oferecemos suporte de chat ao vivo no nosso site durante as nossas horas de expediente. Procure o ícone de chat no canto inferior direito para iniciar um chat com a nossa equipa de apoio ao cliente."
+  },
+  {
+  "question": "Posso encomendar um produto como presente?",
+  "answer": "Sim, pode encomendar um produto como presente e tê-lo enviado diretamente para o destinatário. Durante o processo de compra, pode inserir o endereço de envio do destinatário."
+  },
+  {
+  "question": "O que devo fazer se o meu código de desconto não estiver a funcionar?",
+  "answer": "Se o seu código de desconto não estiver a funcionar, verifique novamente os termos e condições associados ao código. Se o problema persistir, entre em contacto com a nossa equipa de apoio ao cliente para obter assistência."
+  },
+  {
+  "question": "Posso devolver um produto se for uma compra final?",
+  "answer": "Produtos de compra final geralmente não são devolúveis nem reembolsáveis. Consulte a descrição do produto ou entre em contacto com a nossa equipa de apoio ao cliente para confirmar a elegibilidade de devolução de itens específicos."
+  },
+  {
+  "question": "Oferecem serviços de instalação para os vossos produtos?",
+  "answer": "Serviços de instalação estão disponíveis para determinados produtos. Consulte a descrição do produto ou entre em contacto com a nossa equipa de apoio ao cliente para obter mais informações e solicitar serviços de instalação."
+  },
+  {
+  "question": "Posso encomendar um produto que foi descontinuado?",
+  "answer": "Produtos descontinuados não estão mais disponíveis para compra. Recomendamos explorar produtos alternativos no nosso site."
+  },
+  {
+  "question": "Posso devolver um produto sem um recibo?",
+  "answer": "Um recibo ou comprovativo de compra geralmente é necessário para devoluções. Consulte a nossa política de devolução ou entre em contacto com a nossa equipa de apoio ao cliente para obter assistência."
+  },
+  {
+  "question": "Posso encomendar um produto para entrega num país diferente?",
+  "answer": "Sim, oferecemos envio internacional para países selecionados. Consulte os destinos de envio disponíveis durante o checkout ou entre em contacto com o nosso suporte ao cliente para obter assistência."
+  },
+  {
+  "question": "Posso adicionar uma mensagem de presente à minha encomenda?",
+  "answer": "Sim, pode adicionar uma mensagem de presente durante o processo de compra. Geralmente, há uma secção onde pode inserir a sua mensagem personalizada."
+  },
+  {
+  "question": "Posso solicitar uma demonstração do produto antes de fazer uma compra?",
+  "answer": "Atualmente, não oferecemos demonstrações de produtos antes da compra. No entanto, pode encontrar descrições detalhadas do produto, especificações e avaliações de clientes no nosso site."
+  },
+  {
+  "question": "Posso encomendar um produto que está listado como 'em breve'?",
+  "answer": "Produtos listados como 'em breve' não estão disponíveis para compra imediata. Por favor, subscreva notificações para ser informado quando o produto estiver disponível."
+  },
+  {
+  "question": "Posso solicitar uma fatura para a minha encomenda?",
+  "answer": "Sim, uma fatura geralmente está incluída na sua encomenda. Se precisar de uma fatura separada, entre em contacto com a nossa equipa de apoio ao cliente com os detalhes da sua encomenda."
+  },
+  {
+  "question": "Posso encomendar um produto que é rotulado como 'edição limitada'?",
+  "answer": "Produtos 'edição limitada' podem ter disponibilidade restrita. Recomendamos fazer a encomenda assim que possível para garantir o seu item."
+  },
+  {
+  "question": "Posso devolver um produto se foi comprado durante uma venda ou com um desconto?",
+  "answer": "Sim, pode devolver um produto comprado durante uma venda ou com um desconto. O reembolso será processado com base no valor pago após o desconto."
+  },
+  {
+  "question": "Posso solicitar um reparo ou substituição de produto se estiver danificado?",
+  "answer": "Se receber um produto danificado, entre em contacto imediatamente com a nossa equipa de apoio ao cliente. Iremos orientá-lo nos passos necessários para reparo ou substituição."
+  },
+  {
+  "question": "Posso encomendar um produto se estiver listado como 'esgotado' mas disponível para pré-encomenda?",
+  "answer": "Se um produto estiver listado como 'esgotado' e disponível para pré-encomenda, pode fazer uma encomenda para garantir o seu item. O produto será enviado assim que estiver disponível."
+  },
+  {
+  "question": "Posso devolver um produto se foi comprado como presente?",
+  "answer": "Sim, pode devolver um produto comprado como presente. No entanto, os reembolsos normalmente serão emitidos para o método de pagamento original usado para a compra."
+  },
+  {
+  "question": "Posso solicitar um produto se estiver listado como 'descontinuado'?",
+  "answer": "Infelizmente, se um produto estiver listado como 'descontinuado', não está mais disponível para compra. Recomendamos explorar produtos alternativos no nosso site."
+  },
+  {
+  "question": "Posso encomendar um produto se estiver listado como 'esgotado'?",
+  "answer": "Se um produto estiver listado como 'esgotado', está atualmente indisponível para compra. Por favor, verifique novamente mais tarde ou subscreva notificações para ser alertado quando estiver disponível novamente."
+  },
+  {
+  "question": "Posso devolver um produto se foi comprado com um cartão-presente?",
+  "answer": "Sim, pode devolver um produto comprado com um cartão-presente. O reembolso será emitido na forma de crédito na loja ou um novo cartão-presente."
+  },
+  {
+  "question": "Posso solicitar um produto se não estiver atualmente disponível no meu tamanho?",
+  "answer": "Se um produto não está disponível no seu tamanho, pode estar temporariamente fora de stock. Por favor, verifique novamente mais tarde ou subscreva notificações de tamanho."
+  },
+  {
+  "question": "Posso encomendar um produto se estiver listado como 'em breve' mas não disponível para pré-encomenda?",
+  "answer": "Se um produto estiver listado como 'em breve' mas não disponível para pré-encomenda, terá de aguardar até que seja oficialmente lançado e esteja disponível para compra."
+  },
+  {
+  "question": "Posso devolver um produto se foi comprado durante um evento promocional?",
+  "answer": "Sim, pode devolver um produto comprado durante um evento promocional. O reembolso será processado com base no valor pago após quaisquer descontos aplicáveis."
+  }
+  ]
+}
